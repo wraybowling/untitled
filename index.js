@@ -1,6 +1,7 @@
 
 /**
- * @wraybowling spooty
+ * @artist wrave
+ * @title spooty
  */
 
 var tau = Math.PI*2
